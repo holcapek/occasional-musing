@@ -2,8 +2,8 @@
 <html>
 <head>
 <title>{{ page.title }}</title>
-<link rel="stylesheet" href="/minimal.css" />
-<link rel="stylesheet" href="/github.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/minimal.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/github.css" />
 </head>
 <body>
 <main>

@@ -7,4 +7,4 @@ lsi: false
 timezone: Europe/Prague
 encoding: utf-8
 markdown: redcarpet
-baseurl: ""
+baseurl: /musing
