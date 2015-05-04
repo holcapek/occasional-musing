@@ -3,7 +3,7 @@ layout: post
 title: SysVinit, upstart & systemd
 tags: linux init rhce refresher
 ---
-[back](/)
+[back]({{ site.baseurl }})
 # {{ page.title }}
 
 Brief refresher to init daemons employed in RHEL (and its derivatives) 5, 6, and 7.

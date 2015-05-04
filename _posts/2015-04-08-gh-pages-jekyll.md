@@ -3,7 +3,7 @@ layout: post
 title: GitHub Pages & Jekyll
 tags: github rvm ruby gem jekyll
 ---
-[back](/)
+[back]({{ site.baseurl }})
 # {{ page.title }}
 
 -   Create github repository
