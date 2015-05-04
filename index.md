@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Log
+title: Musing
 ---
 # {{ page.title }}
 
