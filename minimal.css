@@ -6,7 +6,7 @@ pre {
 	margin-top: 1em;
 	margin-bottom: 1em;
 	border-left: 0.3em solid gray;
-    padding-left: 0.7em;
+	padding-left: 0.7em;
 }
 
 body {
@@ -19,4 +19,5 @@ body {
 
 ul {
 	list-style: disc;
+	padding: 0;
 }
